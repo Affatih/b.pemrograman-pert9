@@ -1,0 +1,18 @@
+
+Penjelasan Program
+1. List:
+
+my_list adalah sebuah list yang didefinisikan dengan elemen [10, 20, 30, 40, 50].
+Metode append() digunakan untuk menambah elemen.
+Elemen kedua (my_list[1]) diubah nilainya menjadi 25.
+Elemen dengan nilai 30 dihapus menggunakan remove().
+2. Tuple:
+
+my_tuple adalah sebuah tuple yang didefinisikan dengan elemen (100, 200, 300, 400, 500).
+Akses elemen dilakukan dengan indeks, misalnya my_tuple[0].
+Saat mencoba mengubah elemen tuple, Python akan menghasilkan error karena tuple bersifat immutable.
+Tuple dapat digunakan untuk iterasi seperti list.
+Konversi:
+
+List ke Tuple: Menggunakan fungsi tuple().
+Tuple ke List: Menggunakan fungsi list().
