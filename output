@@ -1,0 +1,17 @@
+List Awal: [10, 20, 30, 40, 50]
+Setelah append: [10, 20, 30, 40, 50, 60]
+Setelah ubah elemen kedua: [10, 25, 30, 40, 50, 60]
+Setelah hapus elemen 30: [10, 25, 40, 50, 60]
+
+Tuple: (100, 200, 300, 400, 500)
+Elemen pertama tuple: 100
+Error: 'tuple' object does not support item assignment
+Iterasi elemen dalam tuple:
+100
+200
+300
+400
+500
+
+List ke Tuple: (10, 25, 40, 50, 60)
+Tuple ke List: [100, 200, 300, 400, 500]
